@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 Hello world! I’m Michael Venz, an engineering student from Australia.
 
-I love to research and design robotics systems in my spare time, with the goal of learning more about how these techniques can be applied to exploratory satellite and rover designs. I want to send satellites and robots to every moon, planet, and asteroid in our solar system. I'm hoping to work in research when I finish university.
+I love to research and design robotics systems in my spare time, with the goal of learning more about how these techniques can be applied to exploratory satellite and rover designs. I want to send satellites and robots to every moon, planet, and asteroid in our solar system. I'm hoping to work in research when I finish university. LSR stands for Logicoma Space Robotics. 
 
 I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plotly) for simulations and plotting, and VSCode on Ubuntu (C++ and Python) for programming.
 
