@@ -14,35 +14,29 @@ I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plo
 ## Want to collaborate or see some of the projects I've been working on? 
 
 [![patreon]][patreon-url]
+[![Projects]][Projects-url]
+[![LSRtool]][LSRtool-url]
 [![LinkedIn]][LinkedIn-url]
 [![Mastodon]][Mastodon-url]
 [![YouTube]][YouTube-url]
-[![YouTube]][YouTube-url]
-[![pythonanywhere]][pythonanywhere-url]
 
 <br>
 
 ## Active Github Project Repositories
 
 [![CPP][cpp]][cpp-url]
-[![python]][pythonanywhere-url]
+[![python]][python-url]
 [![pi]][pi-url]
 [![vsc]][vsc-url]
 [![plotly]][plotly-url]
-
-<br>
+[![pythonanywhere]][pythonanywhere-url]
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_RA&theme=dracula)](https://github.com/roboticsmick/LSR_RA)
 
-<br>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_GPS_BASE_STATION&theme=dracula)](https://github.com/roboticsmick/LSR_GPS_BASE_STATION)
-
-<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_GPS_TRACKER&theme=dracula)](https://github.com/roboticsmick/LSR_GPS_TRACKER)
 
-<br>
 <br>
 
 [cpp]: https://img.shields.io/badge/C/C++-black.svg?style=for-the-badge&logo=C%2B%2B&logoColor=wh
@@ -55,6 +49,8 @@ I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plo
 [plotly-url]: https://roboticsmick.pythonanywhere.com/
 [python]:https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [python-url]: https://roboticsmick.pythonanywhere.com/
+[pythonanywhere]:https://img.shields.io/badge/LSR%20Toolbox-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[pythonanywhere-url]: https://roboticsmick.pythonanywhere.com/
 
 [patreon]:https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white
 [patreon-url]: patreon.com/user?u=64698997
@@ -66,5 +62,5 @@ I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plo
 [YouTube-url]: https://www.youtube.com/@logicomaspacerobotics
 [Projects]:https://img.shields.io/badge/Project%20Log-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white
 [Projects-url]: https://michaelvenz.com/
-[pythonanywhere]:https://img.shields.io/badge/LSR%20Toolbox-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[pythonanywhere-url]: https://roboticsmick.pythonanywhere.com/
+[LSRtool]:https://img.shields.io/badge/LSR%20Toolbox-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[LSRtool-url]: https://roboticsmick.pythonanywhere.com/
