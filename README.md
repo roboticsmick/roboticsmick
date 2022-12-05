@@ -31,26 +31,19 @@ I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plo
 [![plotly]][plotly-url]
 
 <br>
-<a href="https://github.com/roboticsmick/LSR_RA">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_RA&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_RA&theme=dracula)](https://github.com/roboticsmick/LSR_RA)
 
 <br>
 
-<a href="https://github.com/roboticsmick/LSR_GPS_BASE_STATION">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_GPS_BASE_STATION&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_GPS_BASE_STATION&theme=dracula)](https://github.com/roboticsmick/LSR_GPS_BASE_STATION)
 
 <br>
 
-<a href="https://github.com/roboticsmick/LSR_GPS_TRACKER">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_GPS_TRACKER&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_GPS_TRACKER&theme=dracula)](https://github.com/roboticsmick/LSR_GPS_TRACKER)
 
 <br>
 <br>
-
-
 
 [cpp]: https://img.shields.io/badge/C/C++-black.svg?style=for-the-badge&logo=C%2B%2B&logoColor=wh
 [cpp-url]: https://github.com/roboticsmick/LSR_RA
