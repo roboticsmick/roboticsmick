@@ -49,7 +49,7 @@ I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plo
 [plotly-url]: https://roboticsmick.pythonanywhere.com/
 [python]:https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [python-url]: https://roboticsmick.pythonanywhere.com/
-[pythonanywhere]:https://img.shields.io/badge/LSR%20Toolbox-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[pythonanywhere]:https://img.shields.io/badge/PYTHONANYWHERE-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [pythonanywhere-url]: https://roboticsmick.pythonanywhere.com/
 
 [patreon]:https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white
