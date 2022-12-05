@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 [![My project-1](https://user-images.githubusercontent.com/70121687/205558250-7548195b-f130-43a9-b60a-7b64c4d65b2f.png)](https://michaelvenz.com/)
 
-Hello world! I’m Michael Venz, an engineering student from Australia.
+Hello world! I’m Michael Venz, an engineering student at QUT, Australia.
 
 I love to research and design robotics systems in my spare time, with the goal of learning more about how these techniques can be applied to exploratory satellite and rover designs. I want to send satellites and robots to every moon, planet, and asteroid in our solar system. I'm hoping to work in research when I finish university. LSR stands for Logicoma Space Robotics, and it's the logo I like to add to my PCB designs.
 
