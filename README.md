@@ -11,7 +11,7 @@ I love to research and design robotics systems in my spare time, with the goal o
 
 I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plotly) for simulations and plotting, and VSCode on Ubuntu (C++ and Python) for programming.
 
-## Want to collaborate or see some of the projects I've been working on? 
+## Some projects I've been working on.
 
 [![patreon]][patreon-url]
 [![Projects]][Projects-url]
