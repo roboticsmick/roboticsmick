@@ -3,29 +3,28 @@ roboticsmick/roboticsmick is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My project-1](https://user-images.githubusercontent.com/70121687/205558250-7548195b-f130-43a9-b60a-7b64c4d65b2f.png)](https://michaelvenz.com/)
+[![My project-1](https://roboticsmick.pythonanywhere.com/assets/LSSRlogo.png)](https://roboticsmick.pythonanywhere.com/)
 
-Hello world! I’m Michael Venz, an engineering student at QUT, Australia.
+Hello world! I’m Michael Venz, a bachelor of mechatronics engineering student at QUT, Australia. I currently work as a research assistant, helping to design autonomous underwater vehicles.
 
-I love to research and design robotics systems in my spare time, with the goal of learning more about how these techniques can be applied to exploratory satellite and rover designs. I want to send satellites and robots to every moon, planet, and asteroid in our solar system. I'm hoping to work in research when I finish university. LSR stands for Logicoma Space Robotics, and it's the logo I like to add to my PCB designs.
+I love to research and design robotics systems in my spare time, with the goal of learning how I can apply these skills to explore our universe. I want to send robots to every moon, planet, and asteroid in our solar system. I'm hoping to work in research when I finish university. LSSR stands for Logicoma Sea and Space Robotics.
 
 I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plotly) for simulations and plotting, and VSCode on Ubuntu (C++ and Python) for programming.
 
 ## Some projects I've been working on.
 
-[![patreon]][patreon-url]
-[![Projects]][Projects-url]
 [![LSRtool]][LSRtool-url]
 [![LinkedIn]][LinkedIn-url]
-[![Mastodon]][Mastodon-url]
 [![YouTube]][YouTube-url]
+[![patreon]][patreon-url]
 
 <br>
 
 ## Active Github Project Repositories
 
-[![CPP][cpp]][cpp-url]
 [![python]][python-url]
+
+[![CPP][cpp]][cpp-url]
 [![pi]][pi-url]
 [![vsc]][vsc-url]
 [![plotly]][plotly-url]
@@ -56,8 +55,6 @@ I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plo
 [patreon-url]: patreon.com/user?u=64698997
 [LinkedIn]:https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/roboticsmick/
-[Mastodon]:https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white
-[Mastodon-url]: https://mastodon.au/@roboticsmick
 [YouTube]:https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
 [YouTube-url]: https://www.youtube.com/@logicomaspacerobotics
 [Projects]:https://img.shields.io/badge/Project%20Log-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white
