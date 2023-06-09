@@ -2,18 +2,13 @@
 roboticsmick/roboticsmick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<style>
-  .container {
-    text-align: center;
-  }
-</style>
 
-<div class="container">
+<div align="center">
   <a href="https://roboticsmick.pythonanywhere.com/">
-    <img src="https://roboticsmick.pythonanywhere.com/assets/LSSRlogo.png" alt="My project-1" height="300">
+    <img src="[images/logo.png](https://roboticsmick.pythonanywhere.com/assets/LSSRlogo.png)" alt="LSSR Logo" height="300">
   </a>
-</div>
-
+<h3 align="center">LSSR Readme</h3>
+  
 Hello world! I’m Michael Venz, a bachelor of mechatronics engineering student at QUT, Australia. I currently work as a research assistant, helping to design autonomous underwater vehicles.
 
 I love to research and design robotics systems in my spare time, with the goal of learning how I can apply these skills to explore our universe. I want to send robots to every moon, planet, and asteroid in our solar system. I'm hoping to work in research when I finish university. LSSR stands for Logicoma Sea and Space Robotics.
