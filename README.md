@@ -2,10 +2,17 @@
 roboticsmick/roboticsmick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<style>
+  .container {
+    text-align: center;
+  }
+</style>
 
-<a href="https://roboticsmick.pythonanywhere.com/">
-  <img src="https://roboticsmick.pythonanywhere.com/assets/LSSRlogo.png" alt="My project-1" height="200">
-</a>
+<div class="container">
+  <a href="https://roboticsmick.pythonanywhere.com/">
+    <img src="https://roboticsmick.pythonanywhere.com/assets/LSSRlogo.png" alt="My project-1" height="300">
+  </a>
+</div>
 
 Hello world! I’m Michael Venz, a bachelor of mechatronics engineering student at QUT, Australia. I currently work as a research assistant, helping to design autonomous underwater vehicles.
 
