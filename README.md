@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://roboticsmick.pythonanywhere.com/">
-    <img src="[images/logo.png](https://roboticsmick.pythonanywhere.com/assets/LSSRlogo.png)" alt="LSSR Logo" height="300">
+    <img src="https://roboticsmick.pythonanywhere.com/assets/LSSRlogo.png" alt="LSSR Logo" height="300">
   </a>
 <h3 align="center">LSSR Readme</h3>
   
