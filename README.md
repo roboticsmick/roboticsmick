@@ -8,13 +8,14 @@ You can click the Preview link to take a look at your changes.
     <img src="https://roboticsmick.pythonanywhere.com/assets/LSSRlogo.png" alt="LSSR Logo" height="300">
   </a>
 <h3 align="center">LSSR Readme</h3>
-  
+
+<!--- Hello start -->
 Hello world! I’m Michael Venz, a Bachelor of Engineering student at QUT, Australia. I currently work as a research assistant, helping to design autonomous underwater vehicles to save coral reeds.
 
 I love to research and design all types of robotics systems in my spare time, with the goal of learning how I can apply these skills to explore our universe. I want to send robots to every moon, planet, and asteroid in our solar system! I'm hoping to work in research when I finish university. LSSR stands for Logicoma Sea and Space Robotics and is inspired by my favourite robot fromGhost in the Shell.
 
 I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plotly) for simulations, and VSCode on Ubuntu (C++ and Python) for programming.
-
+<!--- Hello end -->
 <br>
 
 ## Github Project Repositories I've made that I think are pretty cool:
