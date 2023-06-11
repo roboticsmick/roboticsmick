@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://roboticsmick.pythonanywhere.com/">
     <img src="https://roboticsmick.pythonanywhere.com/assets/LSSRlogo.png" alt="LSSR Logo" height="300">
   </a>
-<h3 align="center">
+<h3 align="center"></h3>
 
 <!--- Hello start -->
 Hello world! I’m Michael Venz, a Bachelor of Engineering student at QUT, Australia. I currently work as a research assistant, helping to design autonomous underwater vehicles to save coral reeds.
