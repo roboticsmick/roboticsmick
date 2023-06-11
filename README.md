@@ -17,7 +17,7 @@ I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plo
 
 <br>
 
-## Github Project Repositories I've made that I think are rade:
+## Github Project Repositories I've made that I think are pretty cool:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_RA&theme=dracula)](https://github.com/roboticsmick/LSR_RA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_GPS_BASE_STATION&theme=dracula)](https://github.com/roboticsmick/LSR_GPS_BASE_STATION)
