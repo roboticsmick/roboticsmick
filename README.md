@@ -15,29 +15,12 @@ I love to research and design all types of robotics systems in my spare time, wi
 
 I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plotly) for simulations, and VSCode on Ubuntu (C++ and Python) for programming.
 
-## Some projects I've been working on.
-
-[![LSRtool]][LSRtool-url]
-[![LinkedIn]][LinkedIn-url]
-[![YouTube]][YouTube-url]
-[![patreon]][patreon-url]
-
 <br>
 
-## Active Github Project Repositories
-
-[![python]][python-url]
-
-[![CPP][cpp]][cpp-url]
-[![pi]][pi-url]
-[![vsc]][vsc-url]
-[![plotly]][plotly-url]
-[![pythonanywhere]][pythonanywhere-url]
+## Github Project Repositories I've made that I think are rade:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_RA&theme=dracula)](https://github.com/roboticsmick/LSR_RA)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_GPS_BASE_STATION&theme=dracula)](https://github.com/roboticsmick/LSR_GPS_BASE_STATION)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_GPS_TRACKER&theme=dracula)](https://github.com/roboticsmick/LSR_GPS_TRACKER)
 
 <br>
