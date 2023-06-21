@@ -20,9 +20,9 @@ I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plo
 <!-- GITHUB PROJECTS -->
 ## Github Project Repositories I've made that I think are pretty cool
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_RA&theme=dracula)](https://github.com/roboticsmick/LSR_RA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_GPS_BASE_STATION&theme=dracula)](https://github.com/roboticsmick/LSR_GPS_BASE_STATION)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSR_GPS_TRACKER&theme=dracula)](https://github.com/roboticsmick/LSR_GPS_TRACKER)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSSR_RA&theme=dracula)](https://github.com/roboticsmick/LSSR_RA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSSR_GPS_BASE_STATION&theme=dracula)](https://github.com/roboticsmick/LSSR_GPS_BASE_STATION)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSSR_GPS_TRACKER&theme=dracula)](https://github.com/roboticsmick/LSSR_GPS_TRACKER)
   
 [cpp]: https://img.shields.io/badge/C/C++-black.svg?style=for-the-badge&logo=C%2B%2B&logoColor=wh
 [cpp-url]: https://github.com/roboticsmick/LSR_RA
