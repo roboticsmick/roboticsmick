@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- HELLO WORLD -->
 ## Hello world!
-I’m Michael Venz, a Bachelor of Engineering student at QUT, Australia. I currently work as a research assistant, helping to design autonomous underwater vehicles to save coral reeds.
+I’m Michael Venz, a Bachelor of Engineering student at QUT, Australia. I currently work as a research assistant, working with autonomous underwater vehicles and hyperspectral cameras for marine conservation.
 
-I love to research and design all types of robotics systems in my spare time, with the goal of learning how I can apply these skills to explore our universe. I want to send robots to every moon, planet, and asteroid in our solar system! I'm hoping to work in research when I finish university. LSSR stands for Logicoma Sea and Space Robotics and is a reference to my favourite robot from Ghost in the Shell.
+I love to research and design all types of robotics systems in my spare time, with the goal of learning how I can apply these skills to explore our universe. I would love to send robots to every moon, planet, and asteroid in our solar system! I'm hoping to work in research when I finish university. LSSR stands for Logicoma Sea and Space Robotics and is a reference to my favourite robot from Ghost in the Shell.
 
 I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plotly) for simulations, and VSCode on Ubuntu (C++ and Python) for programming.
 
