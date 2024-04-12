@@ -3,17 +3,13 @@ roboticsmick/roboticsmick is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center">
-  <a href="https://roboticsmick.pythonanywhere.com/">
-    <img src="https://www.lssr.space/assets/AMCRlogo.png" alt="LSSR Logo" height="300">
-  </a>
-<h3 align="center"></h3>
-
 <!-- HELLO WORLD -->
 ## Hello world!
 I’m Michael Venz, a research assistant in marine robotics at the Queensland University of Technology (QUT), currently completing my final semester of my Bachelor of Engineering (Mechatronics). 
 
 My research is centered on employing underwater hyperspectral imaging via autonomous underwater vehicles, with a specific focus on detecting invasive marine species and enhancing species detection, to support marine conservation initiatives. I am keen to deepen my exploration of this vital field as a PhD student and welcome collaborative and research opportunities.
+
+![Screenshot from 2024-04-12 13-22-00](https://github.com/roboticsmick/roboticsmick/assets/70121687/d7515aad-c81f-4b95-ae3a-3da045634eee)
 
 I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plotly) for simulations, and VSCode on Ubuntu (C++ and Python) for programming.
 
