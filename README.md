@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- HELLO WORLD -->
 ## Hello world!
-I’m Michael Venz, a Bachelor of Engineering student at QUT, Australia. I currently work as a research assistant, working with autonomous underwater vehicles and hyperspectral cameras for marine conservation.
+I’m Michael Venz, a research assistant in marine robotics at the Queensland University of Technology (QUT), currently completing my final semester of my Bachelor of Engineering (Mechatronics). 
 
-I love to research and design all types of robotics systems in my spare time, with the goal of learning how I can apply these skills to explore our universe. I would love to send robots to every moon, planet, and asteroid in our solar system! I'm hoping to work in research when I finish university. LSSR stands for Logicoma Sea and Space Robotics and is a reference to my favourite robot from Ghost in the Shell.
+My research is centered on employing underwater hyperspectral imaging via autonomous underwater vehicles, with a specific focus on detecting invasive marine species and enhancing species detection, to support marine conservation initiatives. I am keen to deepen my exploration of this vital field as a PhD student and welcome collaborative and research opportunities.
 
 I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plotly) for simulations, and VSCode on Ubuntu (C++ and Python) for programming.
 
