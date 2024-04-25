@@ -15,8 +15,8 @@ I'm currently using Fusion360 for PCB design and CAD modelling, Python (Dash Plo
 
 <!-- GITHUB PROJECTS -->
 ## Github Project Repositories I've made that I think are pretty cool
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LOGICOMA_LOW_COST_ROCKET_TRACKER&theme=dracula)](https://github.com/roboticsmick/LOGICOMA_LOW_COST_ROCKET_TRACKER)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LOGICOMA_LOW_COST_ROCKET&theme=dracula)](https://github.com/roboticsmick/LOGICOMA_LOW_COST_ROCKET)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=OPEN_ROCKET_TRACKER&theme=dracula)](https://github.com/roboticsmick/LOGICOMA_LOW_COST_ROCKET_TRACKER)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=OPEN_ROCKET&theme=dracula)](https://github.com/roboticsmick/LOGICOMA_LOW_COST_ROCKET)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSSR_RA&theme=dracula)](https://github.com/roboticsmick/LSSR_RA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSSR_GPS_BASE_STATION&theme=dracula)](https://github.com/roboticsmick/LSSR_GPS_BASE_STATION)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=LSSR_GPS_TRACKER&theme=dracula)](https://github.com/roboticsmick/LSSR_GPS_TRACKER)
