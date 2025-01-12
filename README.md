@@ -14,7 +14,9 @@ My research is centered on employing underwater hyperspectral imaging via autono
 I'm currently using Autodesk Fusion for PCB design and CAD modelling, Python (Dash Plotly) for simulations, and VSCode on Ubuntu (C++ and Python) for programming.
 
 <!-- GITHUB PROJECTS -->
-## Github Project Repositories I've made that I think are pretty cool
+## Side projects 
+![image](https://github.com/user-attachments/assets/3d126811-7cdd-4750-a911-9ea8193b2691)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=OPEN_ROCKET_TRACKER&theme=dracula)](https://github.com/roboticsmick/OPEN_ROCKET_TRACKER)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=OPEN_ROCKET&theme=dracula)](https://github.com/roboticsmick/OPEN_ROCKET)
   
