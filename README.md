@@ -14,7 +14,7 @@ I’m keen to deepen my exploration of this vital field in the future via a PhD 
 ## Tool Stack 🛠️
 
 - **Design**: Autodesk Fusion 360 (PCB & CAD Modeling)
-- **Programming**: Python (Dash Plotly), C++ 
+- **Programming**: Python, Dash Plotly, C++
 - **Environment**: VSCode on Ubuntu
 
 ## Featured Projects 🚀
