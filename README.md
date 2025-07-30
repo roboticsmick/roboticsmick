@@ -22,13 +22,7 @@ I’m keen to deepen my exploration of this vital field in the future via a PhD 
 [![OPEN_ROCKET_TRACKER](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=OPEN_ROCKET_TRACKER&theme=dracula)](https://github.com/roboticsmick/OPEN_ROCKET_TRACKER)
 [![OPEN_ROCKET](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=OPEN_ROCKET&theme=dracula)](https://github.com/roboticsmick/OPEN_ROCKET)
 
-🌐 [Visit ORCA Engineering](https://www.orca.engineer/)
-
-<a href="https://www.orca.engineer/" target="_blank">
-    <p align="center">
-        <img src="https://github.com/user-attachments/assets/3d126811-7cdd-4750-a911-9ea8193b2691" alt="ORCA Logo" width="200"/>
-    </p>
-</a>
+🌐 [Visit ORCA Engineering to try out some of the tools I've been developing for marine robotics](https://www.orca.engineer/)
 
 ## Let's Collaborate 🤝
 
