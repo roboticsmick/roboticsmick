@@ -9,7 +9,7 @@ My research is centered on employing underwater hyperspectral imaging via autono
 
 I’m keen to deepen my exploration of this vital field in the future via a PhD and always welcome collaborative and research opportunities.
 
-![Underwater Robotics Image](https://github.com/roboticsmick/roboticsmick/assets/70121687/4f8b9c35-cd02-4484-81db-172f88093207)
+<img width="927" height="377" alt="image" src="https://github.com/user-attachments/assets/7ac7958f-d710-44a4-9d6b-4eaf2008ceec" />
 
 ## Tool Stack 🛠️
 
