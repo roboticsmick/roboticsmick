@@ -17,11 +17,6 @@ I’m keen to deepen my exploration of this vital field in the future via a PhD 
 - **Programming**: Python, Dash Plotly, C++
 - **Environment**: VSCode on Ubuntu
 
-## Featured Projects 🚀
-
-[![OPEN_ROCKET_TRACKER](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=OPEN_ROCKET_TRACKER&theme=dracula)](https://github.com/roboticsmick/OPEN_ROCKET_TRACKER)
-[![OPEN_ROCKET](https://github-readme-stats.vercel.app/api/pin/?username=roboticsmick&repo=OPEN_ROCKET&theme=dracula)](https://github.com/roboticsmick/OPEN_ROCKET)
-
 ## Let's Collaborate 🤝
 
 I'm always excited to connect with like-minded researchers and engineers. Feel free to reach out for:
