@@ -5,9 +5,11 @@ Welcome to my GitHub profile! I'm Michael, a research engineer at the Queensland
 
 ## About Me
 
-My research is centered on employing underwater hyperspectral imaging via autonomous underwater vehicles, with a specific focus on detecting invasive marine species and enhancing species detection, to support marine conservation initiatives.
+My primary research interest focuses on exploring how underwater hyperspectral imaging can enhance our understanding of marine ecosystems. While regular cameras see in just three colors (red, green, blue), hyperspectral cameras capture hundreds of spectral bands that can reveal the unique signatures of different marine species, even when they appear identical to the human eye.
 
-I’m keen to deepen my exploration of this vital field in the future via a PhD and always welcome collaborative and research opportunities.
+I'm passionate about developing autonomous systems that can map and monitor vast reef areas, and I want to see how AI can be leveraged to automatically identify species and track ecosystem health. A more detailed understanding of these underwater worlds is crucial for protecting marine biodiversity and detecting invasive species before they cause irreversible damage.
+
+I'm also in love with photogrammetry and the new volumetric techniques that have the potential to integrate hyperspectral data into immersive 3D visualizations, potentially making complex marine ecosystems more accessible and understandable.
 
 <img width="927" height="377" alt="image" src="https://github.com/user-attachments/assets/7ac7958f-d710-44a4-9d6b-4eaf2008ceec" />
 
