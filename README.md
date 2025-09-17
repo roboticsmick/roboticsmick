@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm Michael, a research engineer at the Queensland
 
 ## About Me
 
-My primary research interest focuses on exploring how underwater hyperspectral imaging can enhance our understanding of marine ecosystems. While regular cameras see in just three colors (red, green, blue), hyperspectral cameras capture hundreds of spectral bands that can reveal the unique signatures of different marine species, even when they appear identical to the human eye.
+I'm interested in developing autonomous underwater hyperspectral imaging systems for marine ecosystem monitoring. Combining AI, photogrammetry, and hyperspectral analysis to map reefs, identify species, and track ecosystem health.
 
-I'm passionate about developing autonomous systems that can map and monitor vast reef areas, and I want to see how AI can be leveraged to automatically identify species and track ecosystem health. A more detailed understanding of these underwater worlds is crucial for protecting marine biodiversity and detecting invasive species before they cause irreversible damage.
+Currently, I'm working on l Rangerbot Mantis - an autonomous underwater vehicle equipped with a comprehensive sensor suite including a Headwall hyperspectral line-scan camera, Ocean Optics spectrometer, Luxonis 4K stereo vision system, and full-spectrum LEDs for seafloor mapping. The system works alongside an autonomous surface vessel that captures environmental data like wind, salinity, and surface irradiance. This project, developed in collaboration with the University of Hawaii and Oceankind, aims to enable early detection of an invasive algae that's devastating coral reefs across Hawaii.
 
-I'm also in love with photogrammetry and the new volumetric techniques that have the potential to integrate hyperspectral data into immersive 3D visualizations, potentially making complex marine ecosystems more accessible and understandable.
+My goals are to work towards a PhD to develop these technologies further, and I'm always interested in learning from others working on similar challenges. If you're exploring ways to better understand or protect marine environments, I'd be keen to hear about your work!
 
 <img width="927" height="377" alt="image" src="https://github.com/user-attachments/assets/7ac7958f-d710-44a4-9d6b-4eaf2008ceec" />
 
